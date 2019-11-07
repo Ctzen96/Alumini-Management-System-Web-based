@@ -6,6 +6,7 @@ An Alumni Management System provides features to connect alumni community with u
 PHP, Javascript, HTML, CSS, MySQL
 
 <h4>Screenshot of the system</h4>
+</br>
 1. Index Page
 </br>![image](https://user-images.githubusercontent.com/56667352/68408985-4e2b5500-01c1-11ea-872e-e27769eb3544.png)
 
