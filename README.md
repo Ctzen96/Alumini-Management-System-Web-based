@@ -7,7 +7,7 @@ PHP, Javascript, HTML, CSS, MySQL
 
 <h4>Screenshot of the system</h4>
 </br>
-1. Index Page
+1. Index Page</br>
 </br>![image](https://user-images.githubusercontent.com/56667352/68409563-3f916d80-01c2-11ea-9e17-76ecc6c209e1.png)
 
 
